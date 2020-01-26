@@ -1,1 +1,1 @@
-There is nothing here but secrets.
+There should be nothing here, except this file.
